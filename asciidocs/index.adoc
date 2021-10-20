@@ -15,6 +15,6 @@ ifdef::backend-html5[]
 //toc::[]
 
 == Was kann mein Projekt alles machen?
-Man kann eine Webseite mit Hilfe von java Io und des User-Interfaces (GUI) generieren.
+Man kann eine Webseite mit Hilfe von java Io und dem User-Interfaces (GUI) generieren.
 
 
