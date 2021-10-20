@@ -16,5 +16,18 @@ ifdef::backend-html5[]
 
 == Was kann mein Projekt alles machen?
 Man kann eine Webseite mit Hilfe von java Io und dem User-Interfaces (GUI) generieren.
+Das Ziel ist einfach eine Webseite mit ein paar Clicks zu machen.
+Das Projekt kann schon bei einer Firma in der Zukunft verwendet werden, wenn es viele Funktionalitäten enthält.
+
+
+== Technologien
+
+- Java (Spring, JDBC, IO)
+- React
+- html/css
+- javascript
+- Intelliji (IDE)
+- MySQL
+
 
 
