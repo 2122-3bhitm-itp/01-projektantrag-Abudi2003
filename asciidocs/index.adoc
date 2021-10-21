@@ -1,4 +1,4 @@
-= My Project Webseitenbuilder
+= My Project Webseitenbuilder für Webshops und Portfolios
 Abdulrahman Al Sabagh
 1.0.0, 2021-10-21: Some notes
 ifndef::imagesdir[:imagesdir: images]
@@ -15,10 +15,15 @@ ifdef::backend-html5[]
 //toc::[]
 
 == Was kann mein Projekt alles machen?
-Man kann eine Webseite mit Hilfe von java Io und dem User-Interfaces (GUI) generieren.
-Das Ziel ist einfach eine Webseite mit ein paar Clicks zu machen.
-Das Projekt kann schon bei einer Firma in der Zukunft verwendet werden, wenn es viele Funktionalitäten enthält.
+Auf der Webseite sucht sich der User das Layout seiner Webseite.
+Wenn er sich für ein Design entscheidet, dann werden die benötigte Ressourcen mit Java IO erstellt. Der User kann dann:
 
+- HTML Elemente einfügen.
+- Er kann auch ein paar css Änderungen machen.
+
+-- Wichtig !!!
+
+- Der User darf das Layout nicht ändern
 
 == Technologien
 
@@ -26,8 +31,8 @@ Das Projekt kann schon bei einer Firma in der Zukunft verwendet werden, wenn es 
 - React
 - html/css
 - javascript
-- Intelliji (IDE)
+- IntelliJ (IDE)
 - MySQL
 
-
+//token : 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
 
