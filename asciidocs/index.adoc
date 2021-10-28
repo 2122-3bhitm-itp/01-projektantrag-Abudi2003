@@ -1,4 +1,4 @@
-= My Project Webseitenbuilder für Webshops und Portfolios
+= My Project Time manager
 Abdulrahman Al Sabagh
 1.0.0, 2021-10-21: Some notes
 ifndef::imagesdir[:imagesdir: images]
@@ -14,25 +14,50 @@ ifdef::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 
-== Was kann mein Projekt alles machen?
-Auf der Webseite sucht sich der User das Layout seiner Webseite.
-Wenn er sich für ein Design entscheidet, dann werden die benötigte Ressourcen mit Java IO erstellt. Der User kann dann:
+== Projekt Bezeichnung
 
-- HTML Elemente einfügen.
-- Er kann auch ein paar css Änderungen machen.
+Private und geschäftliche Termine mit anderen mitteilien
 
--- Wichtig !!!
 
-- Der User darf das Layout nicht ändern
 
-== Technologien
+== Projekt-Auftraggeber:
 
-- Java (Spring, JDBC, IO)
-- React
-- html/css
-- javascript
-- IntelliJ (IDE)
-- MySQL
+Abdulrahman Al Sabagh
+
+== Projekthintergrund:
+
+Die Idee hinter diesem Kalender ist, dass man Termine koordieniert.
+Eine Person beginnt mit einer Eintragung und verknüpft diese mit anderen Personen.
+Dabei geht es nicht nur um private Vereinbarungen
+, es kann auch um geschäftliche bzw. berufliche Agenden gehen.
+Jede registriete Person hat einen eigenen Kalender und kann diesen mit anderen Peresonen abgleichen.
+Einsicht in diesen Time-manager können nur Mitglieder bekommen.
+Alle anderen Personen sind davon ausgeschlossen,
+außer die Gruppe die gewährt Einsicht in verschiedene Bereiche.
+Beabsichtigt ist auch neben dem geschäftlichen Time-manager einen privaten Kalender einzurichten
+, der ebenfalls verschiedene Verknüpfungsmöglichkeiten enthält.
+Vorgesehen sind Abstufungen in den Prioritäten
+, wobei Symbole verschiedener Art verwendet werden können.
+
+== Sinn/Zweck
+Andere User werden dann informiert, ob ich Zeit habe oder nicht.
+
+Anfragen von Terminen können so schnell übersichtlich und unkompliziert vereinbart werden.
+
+
+== Beteiligte
+
+Jeder macht einen Time-manager für sich, um sich mit anderen Usern  auszustauschen
+
+Das gilt in erster Linie für die eigene Freizeit, aber auch geschäftliche und berufliche Vereinbarungen
+
+
+== Endergebnis
+
+Ein Time managment ist wie ein Stundenplan bzw. Kalendereintrag, der einem helfen soll, die Zeit und die Termine sinnvoll zu nutzen und eventuell mit Terminen von anderen Usern abzustimmen.
+
+== Kriterien
+Die User sollen die Qualiätet und Einfachheit des Programmes beurteilen und damit einen Wert in einen Skala von  1-5  angeben.
 
 //token : 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
 
